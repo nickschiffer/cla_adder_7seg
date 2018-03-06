@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"cla_adder_tb_func_synth.v" \
+"../../../../../cla_adder.srcs/sources_1/new/add_inferred.v" \
+"../../../../../cla_adder.srcs/sim_1/new/cla_adder_tb.v" \
+
+# Do not sort compile order
+nosort

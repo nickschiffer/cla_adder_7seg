@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../cla_adder_7seg.srcs/sources_1/new/CLA_top.v" \
+"../../../../cla_adder_7seg.srcs/sources_1/new/CLAgen_4bit.v" \
+"../../../../cla_adder_7seg.srcs/sources_1/new/add_half.v" \
+"../../../../cla_adder_7seg.srcs/sources_1/new/add_inferred.v" \
+"../../../../cla_adder_7seg.srcs/sources_1/new/my_xor.v" \
+"../../../../cla_adder_7seg.srcs/sim_1/new/cla_adder_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

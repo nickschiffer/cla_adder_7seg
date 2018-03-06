@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Mar  5 17:10:01 2018
+# Process ID: 11552
+# Current directory: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder_7seg/cla_adder_7seg.runs/synth_1
+# Command line: vivado.exe -log cla_adder_7seg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cla_adder_7seg.tcl
+# Log file: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder_7seg/cla_adder_7seg.runs/synth_1/cla_adder_7seg.vds
+# Journal file: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder_7seg/cla_adder_7seg.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cla_adder_7seg.tcl -notrace

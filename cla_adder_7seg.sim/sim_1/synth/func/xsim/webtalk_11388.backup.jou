@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Mar  4 01:04:19 2018
+# Process ID: 11388
+# Current directory: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder/cla_adder.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder/cla_adder.sim/sim_1/synth/func/xsim/xsim.dir/cla_adder_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder/cla_adder.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: C:/Users/Nick Schiffer/Documents/School/CMPE125/Labs/cla_adder/cla_adder.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Nick -notrace
